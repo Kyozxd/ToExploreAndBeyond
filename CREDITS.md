@@ -1,4 +1,4 @@
-# Alot Ol Things Credits
+# ToExploreAndBeyond Credits
 
 ## Main Team:
 Lead Pack Developer - Kyozxd (@KyozXD)
