@@ -1,2 +1,2 @@
-# AlotOlThings
-Alot of things modpack
+# ToExploreAndBeyond 
+ToExploreAndBeyond modpack
